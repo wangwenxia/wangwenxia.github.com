@@ -1,0 +1,108 @@
+.siderbar  a:link{
+    color: white;
+    text-decoration: none;
+}
+.siderbar a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+.siderbar{
+	height:668px;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+.siderbar-inner{
+	height: 668px;
+	background-color: rgba(0,0,0,0.38);
+}
+.siderbar-page{
+  width: 271px;
+  height: 600px;
+  text-align: center;
+  font-family: "Microsoft YaHei",sans-serif;
+}
+.avtar{
+	margin-top: 30px;
+	border-radius: 50%;
+	width: 45%;
+}
+.name{
+	margin-top: 30px;
+	color: white;
+	font-size: 40px;
+    font-weight: bolder;
+}
+.block{
+	margin-top: 30px;
+	text-align: left;
+	margin-left: 22%;
+	color:white;
+	font-size: 18px; 
+}
+
+.meun{
+	margin-top: 40px;
+	color: white;
+	font-size: 18px;
+ }
+blockquote{
+	padding:0px 25px;
+}
+.meun li{
+	text-align: left;
+	margin-top: 15px;
+	margin-left: 65px;
+	padding-left: 10px;
+}
+.main{
+	position: absolute;
+	margin-left: 390px;
+}
+.main-page{
+	 font-family: "Microsoft YaHei",sans-serif;
+}
+.time{
+	padding-bottom: 6px;
+	width: 910px;
+    border-bottom: 1px solid #eee;
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.welcome{
+	padding-bottom: 6px;
+	width: 910px;
+    border-bottom: 1px solid #eee;
+	margin-top: 20px;
+	font-size: 36px;
+	font-weight: bold;
+}
+.b-t{
+	font-size: 17px;
+	line-height: 45px;
+}
+.text{
+	width: 910px;
+}
+.ph-w{
+	margin-top: 20px;
+	font-size: 15px;
+}
+.ph{
+	width: 910px;
+	margin-top: -10px;
+}
+.footer{
+	padding-top: 10px;
+	width: 910px;
+	border-top: 1px solid #eee;
+	margin-top: 100px;
+	text-align: center;
+}
+.main li{
+	margin-top: 5px;
+}
+.main li p{
+	font-size: 16px;
+}
