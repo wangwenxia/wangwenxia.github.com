@@ -70,6 +70,14 @@ blockquote{
 	font-size: 30px;
 	font-weight: bold;
 }
+.time1{
+	padding-bottom: 6px;
+	width: 910px;
+    border-bottom: 1px solid #eee;
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+}
 .welcome{
 	padding-bottom: 6px;
 	width: 910px;
