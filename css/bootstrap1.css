@@ -61,6 +61,7 @@ blockquote{
 }
 .main-page{
 	 font-family: "Microsoft YaHei",sans-serif;
+	 min-height: 600px;
 }
 .time{
 	padding-bottom: 6px;
