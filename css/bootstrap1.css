@@ -41,11 +41,23 @@
 	font-size: 18px; 
 }
 
-.meun{
+.meun {
 	margin-top: 40px;
 	color: white;
 	font-size: 18px;
- }
+ }	
+ 
+ .sidebar-item {
+    transition: margin-left 0.5s;
+    -moz-transition: margin-left 0.5s;
+    -webkit-transition: margin-left 0.5s;
+    -o-transition: margin-left 0.5s;
+}
+
+.sidebar-item:hover {
+    margin-left: 90px;
+}
+
 blockquote{
 	padding:0px 25px;
 }
