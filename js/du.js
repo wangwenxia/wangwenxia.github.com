@@ -25,6 +25,7 @@ $(document).ready(function(){
                   $(".welcome").css("width",w);
                   $(".siderbar").css("position","static");
                   $(".main").css("margin-left","0");
+                  $(".siderbar").css("background-size",w)
                 } 
                 if(w>=768){
                  $(".text").css("width","910px");
