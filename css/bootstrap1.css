@@ -75,6 +75,10 @@ blockquote{
 	 font-family: "Microsoft YaHei",sans-serif;
 	 min-height: 600px;
 }
+.bline{
+     padding-bottom: 6px;
+	 border-bottom: 1px solid #eee;
+}
 .time{
 	padding-bottom: 6px;
 	width: 910px;
@@ -126,4 +130,11 @@ blockquote{
 }
 .main li p{
 	font-size: 16px;
+}
+.center{
+	text-align: center;
+    color:#BF4E24;
+}
+.centerb{
+	text-align: center;
 }
